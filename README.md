@@ -7,8 +7,11 @@ Learning and Implementing Data Visualization from Kaggle
 Since it's not always easy to decide how to best tell the story behind your data, we've broken the chart types into three broad categories to help with this.
 
 Trends - A trend is defined as a pattern of change.
+
       sns.lineplot - Line charts are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group.
+      
 Relationship - There are many different chart types that you can use to understand relationships between variables in your data.
+
       sns.barplot - Bar charts are useful for comparing quantities corresponding to different groups.
       sns.heatmap - Heatmaps can be used to find color-coded patterns in tables of numbers.
       sns.scatterplot - Scatter plots show the relationship between two continuous variables; if color-coded, we can also show the relationship with a third categorical variable.
