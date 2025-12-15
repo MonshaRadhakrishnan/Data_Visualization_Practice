@@ -1,2 +1,2 @@
-# Visualization---Practice
-Learning ad Implementing Data Visualization from Kaggle
+# Visualization Practice
+Learning and Implementing Data Visualization from Kaggle
