@@ -24,3 +24,5 @@ Distribution - We visualize distributions to show the possible values that we ca
       sns.histplot - Histograms show the distribution of a single numerical variable.
       sns.kdeplot - KDE plots (or 2D KDE plots) show an estimated, smooth distribution of a single numerical variable (or two numerical variables).
       sns.jointplot - This command is useful for simultaneously displaying a 2D KDE plot with the corresponding KDE plots for each individual variable.
+
+<img width="4800" height="2960" alt="Certification - Monisha Radhakrishnan - Data Visualization" src="https://github.com/user-attachments/assets/5ea0dcce-6649-41c5-b2ac-c7739c35d7fa" />
